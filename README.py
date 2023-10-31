@@ -1,4 +1,5 @@
-# ПРОГРАММНЫЙ КОД НЕЙРОННОЙ СЕТИ
+ПРОГРАММНЫЙ КОД НЕЙРОННОЙ СЕТИ
+
 import sys
 import numpy as np
 
@@ -80,7 +81,8 @@ print ("Weights from input to hidden: \n{},\n weights from hidden to output: \n{
 		str(Neuron().weights_0_1),
 		str(Neuron().weights_1_2)))
 
-# ПРОГРАММНЫЙ КОД ГОЛОСОВОГО ПОМОЩНИКА
+ПРОГРАММНЫЙ КОД ГОЛОСОВОГО ПОМОЩНИКА
+
 import speech_recognition as sr
 import webbrowser
 import pyttsx3
